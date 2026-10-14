@@ -1,5 +1,7 @@
 # Revisao de Escalabilidade e Custo (Capacity Planning)
 
+[![CI](https://github.com/amanda-martins-data/capacity-planning-qualidade-ar/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/capacity-planning-qualidade-ar/actions/workflows/ci.yml)
+
 Analise formal de capacidade e custo da infraestrutura AWS real do
 [Projeto 04](https://github.com/amanda-martins-data/iac-pipeline-cloud-qualidade-ar)
 (Lambda + S3 + RDS Postgres) - onde cada componente quebra conforme
